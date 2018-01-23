@@ -9,6 +9,10 @@
   "author": "Sparsha Saha",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1",
+    "socket.io": "^2.0.4",
+    "socketio": "^1.0.0",
     "webrtc": "^1.14.1"
   }
 }
